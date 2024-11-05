@@ -1,7 +1,6 @@
 # Bayesian-guided Label Mapping for Visual Reprogramming
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![Static Badge](https://img.shields.io/badge/Pub-NeurIPS'24-red)](https://arxiv.org/abs/2410.24018)
-[![Static Badge](https://img.shields.io/badge/View-Slides-brightgreen)](https://1drv.ms/p/s!AujCeMaXm8i1jT4flVbgI6Zi36UW?e=fpvMbu)
 
 This repository is the official PyTorch implementation of the **NeurIPS 2024** paper:
 [Bayesian-Guided Label Mapping for Visual Reprogramming](),
