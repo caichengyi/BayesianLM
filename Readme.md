@@ -3,7 +3,7 @@
 [![Static Badge](https://img.shields.io/badge/Pub-NeurIPS'24-red)](https://arxiv.org/abs/2410.24018)
 
 This repository is the official PyTorch implementation of the **NeurIPS 2024** paper:
-[Bayesian-Guided Label Mapping for Visual Reprogramming](),
+[Bayesian-guided Label Mapping for Visual Reprogramming](),
 authored by Chengyi Cai, Zesheng Ye, Lei Feng, Jianzhong Qi, and Feng Liu.
 
 **Abstract:**
@@ -40,11 +40,11 @@ To implement the results, please [download](https://drive.google.com/drive/folde
         # VR for Vision-Language Models
         python train_vlm.py --dataset flowers102 --mapping ilm --seed 0
 
-### Bayesian-Guided Label Mapping (BLM)
+### Bayesian-guided Label Mapping (BLM)
         python train_vm.py --dataset flowers102 --mapping blm --seed 0
         python train_vlm.py --dataset flowers102 --mapping blm --seed 0
 
-### Improved Bayesian-Guided Label Mapping (BLM++)
+### Improved Bayesian-guided Label Mapping (BLM++)
         python train_vm.py --dataset flowers102 --mapping blmpp --seed 0
         python train_vlm.py --dataset flowers102 --mapping blmpp --seed 0
 
